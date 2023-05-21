@@ -1,7 +1,7 @@
 # A React App That Toggles Light and Dark Modes
 
 # WebApp Link
-https://fisdomreact.netlify.app
+https://fisdomreact.vercel.app
 
 # Getting Started with Create React App
 
